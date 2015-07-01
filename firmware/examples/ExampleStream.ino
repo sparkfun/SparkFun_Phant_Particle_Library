@@ -1,10 +1,10 @@
-/*	testStream.ino
+/*	ExampleStream.ino
 	Jim Lindblom <jim@sparkfun.com>
 	March 24, 2015
 	https://github.com/jimblom/Spark_Phant_Library
 	
-	This is a simple example sketch for the Spark Core (or Photon) that
-	demonstrates how to use the SparkFun-Spark-Phant library to post
+	This is a simple example sketch for the Particle Core (or Photon) that
+	demonstrates how to use the SparkFunPhant library to post
 	to Phant.
 	
 	It's set up to post to this test stream: 
@@ -17,8 +17,8 @@
 	
 
 	Development environment specifics:
-	Spark Build environment (https://www.spark.io/build)
-	Spark Core
+	Particle Build environment (https://www.particle.io/build)
+	Particle Photon
 	Distributed as-is; no warranty is given. 
 */
 // Include the library:
