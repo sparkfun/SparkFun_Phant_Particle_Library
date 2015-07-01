@@ -12,7 +12,7 @@
  *    never   forget.
  *
  * Original Author: Todd Treece <todd@sparkfun.com>
- * Edited for the Spark by: Jim Lindblom <jim@sparkfun.com>
+ * Edited for Particle by: Jim Lindblom <jim@sparkfun.com>
  *
  * Copyright (c) 2014 SparkFun Electronics.
  * Licensed under the GPL v3 license.
